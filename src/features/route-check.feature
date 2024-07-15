@@ -21,5 +21,5 @@ Feature: Route checks on the German site
         And I have selected return route 'Amalfi - Neapel'
         And I click Search on the dealfinder 
         And I wait for quotes to load
-        Then I am viewing route from 'Amalfi' to 'Neapel'
-        And I am viewing route from 'Neapel' to 'Sorrent'
+        Then I am viewing route from 'Sorrent' to 'Ischia'
+        And I am viewing route from 'Amalfi' to 'Neapel'
