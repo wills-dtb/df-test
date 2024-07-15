@@ -1,4 +1,4 @@
-Feature: Directferries homepage
+Feature: Direct Ferries homepage
 
     Scenario: Popular operators appear
         Given I am on the homepage

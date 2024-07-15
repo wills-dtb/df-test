@@ -2,11 +2,9 @@
 
 We would like you to complete a small task to demonstrate your technical understanding of automation. Keep in mind scalability for the project. You are not expected to spend too much time on this, just between 45 mins to 1 hour, although it is not a timed task. Then create your own git repo and commit your changes there.
 
+---    
 
-**Automate the below scenarios, taking screenshots at the end.**
-    
-
-1. There are some tests existing and working within feature homepage-tests - please extend the test coverage for sites www.directferries.co.uk and www.directferries.it and ensure all the tests pass. 
+1. There are some tests existing and working within homepage-tests feature - please extend the test coverage for sites www.directferries.co.uk and www.directferries.it and ensure all the tests pass. 
 
 ---
 
@@ -14,7 +12,7 @@ We would like you to complete a small task to demonstrate your technical underst
    
 ---
 
-3. Scenario 1 test within route-check feature is failing - can you work out the issue and ensure it passes? 
+3. Scenarios 1 & 3 within route-check feature are failing - can you work out the issue and ensure they pass? 
 
 ---
 
