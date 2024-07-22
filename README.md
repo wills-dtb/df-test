@@ -12,7 +12,7 @@ We would like you to complete a small task to demonstrate your technical underst
    
 ---
 
-3. Scenarios 1 & 3 within route-check feature are failing - can you work out the issue and ensure they pass? 
+3. Scenarios 1 & 3 within route-check feature are failing. To support a change in the upcoming sprint, you need to write automation for route Amalfi – Neapel. The existing steps do not seem to pass the checks which have been working for all routes up until now. Please investigate & resolve the issue here. 
 
 ---
 
