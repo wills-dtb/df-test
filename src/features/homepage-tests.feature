@@ -1,13 +1,19 @@
-Feature: Direct Ferries homepage
+Feature: Direct Ferries homepages
 
-    Scenario: Popular operators appear
-        Given I am on the homepage
+    Scenario: Check UK homepage
+        Given I am on the 'https://www.directferries.co.uk?dealfinderVersion=A' homepage
         Then I see popular operators
-
-    Scenario: Top destinations appear
-        Given I am on the homepage
         Then I see top destinations
-    
-    Scenario: Latest offers appear
-        Given I am on the homepage
+        Then I see latest offers
+
+    Scenario: Check IT homepage
+        Given I am on the 'https://www.directferries.it?dealfinderVersion=A' homepage
+        Then I see popular operators
+        Then I see top destinations
+        Then I see latest offers
+
+    Scenario: Check DE homepage
+        Given I am on the 'https://www.directferries.de?dealfinderVersion=A' homepage
+        Then I see popular operators
+        Then I see top destinations
         Then I see latest offers
